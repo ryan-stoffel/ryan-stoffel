@@ -35,13 +35,6 @@ CS senior concentrating in AI/ML, currently building software for defense system
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RyanStoffel&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0A66C2&text_color=808080" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanStoffel&layout=compact&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=808080&hide=html,css" width="48%"/>
-
-</div>
-
 ---
 
 <div align="center">
