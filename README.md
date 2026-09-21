@@ -1,6 +1,9 @@
-# Ryan Stoffel
-
-**Software · Systems · Applied AI**
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/terminal-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/terminal-mobile.svg">
+  <img alt="Ryan Stoffel — Software, Systems, and Applied AI. An animated terminal introduces ember, Formula Fly, Photon, and Tidy." src="./assets/terminal.svg" width="880">
+</picture>
 
 [Portfolio](https://ryanstoffel.dev/) · [LinkedIn](https://www.linkedin.com/in/ryan-stoffel/)
 

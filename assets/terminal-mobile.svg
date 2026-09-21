@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460" fill="none" role="img" aria-labelledby="terminal-title terminal-description">
+  <title id="terminal-title">Ryan Stoffel — software, systems, and applied AI</title>
+  <desc id="terminal-description">A terminal types cat README.md, then reveals Ryan's profile and projects: ember, Formula Fly, Photon, and Tidy. The animation plays once and rests. Reduced motion displays the complete profile immediately.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="460" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#111c22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <clipPath id="window"><rect x=".5" y=".5" width="459" height="459" rx="12"/></clipPath>
+    <clipPath id="command-clip"><rect class="type-window" x="56" y="72" width="156" height="27"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+    .ink { fill: #e4edf2; }
+    .muted { fill: #9caebc; }
+    .green { fill: #a6d9b1; }
+    .typing-cursor { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .type-window { animation: type 1.3s steps(13, end) .45s both; }
+      .typing-cursor { animation: caret-travel 1.3s steps(13, end) .45s both, caret-life 1.9s step-end both; }
+      .reveal { animation: reveal .18s ease-out both; }
+      .identity { animation-delay: 1.9s; }
+      .focus { animation-delay: 2.1s; }
+      .directory { animation-delay: 2.5s; }
+      .project-one { animation-delay: 2.75s; }
+      .project-two { animation-delay: 3.15s; }
+      .project-three { animation-delay: 3.55s; }
+      .ready { animation-delay: 4.05s; }
+      .resting-cursor { animation: blink 1s step-end 4.25s 4; }
+    }
+    @keyframes type { from { width: 0; } to { width: 156px; } }
+    @keyframes caret-travel { from { transform: translateX(0); } to { transform: translateX(156px); } }
+    @keyframes caret-life { 0%, 94% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes reveal { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  <g clip-path="url(#window)">
+    <rect width="460" height="460" fill="url(#surface)"/>
+    <rect width="460" height="50" fill="#182129"/>
+    <path d="M0 50H460" stroke="#2a3741"/>
+    <circle cx="27" cy="25" r="4" fill="#c77676"/>
+    <circle cx="43" cy="25" r="4" fill="#c8ad78"/>
+    <circle cx="59" cy="25" r="4" fill="#85b991"/>
+    <text x="88" y="30" class="muted" font-size="12">~/ryan-stoffel</text>
+    <text x="432" y="30" text-anchor="end" class="muted" font-size="12">zsh</text>
+    <text x="28" y="92" class="green" font-size="20">❯</text>
+    <text x="56" y="92" class="ink" font-size="20" textLength="156" lengthAdjust="spacingAndGlyphs" clip-path="url(#command-clip)">cat README.md</text>
+    <rect class="typing-cursor" x="56" y="76" width="10" height="21" rx="1" fill="#a6d9b1"/>
+    <text x="28" y="140" class="ink reveal identity" font-size="32" font-weight="600" letter-spacing="-.8">Ryan Stoffel</text>
+    <text x="28" y="170" class="muted reveal focus" font-size="16">Software · Systems · Applied AI</text>
+    <text x="28" y="205" class="muted reveal directory" font-size="14">~/projects</text>
+    <g class="reveal project-one">
+      <text x="28" y="238" class="green" font-size="18">ember</text>
+      <text x="28" y="261" class="muted" font-size="16">context for coding agents</text>
+    </g>
+    <g class="reveal project-two">
+      <text x="28" y="298" class="green" font-size="18">formula-fly</text>
+      <text x="28" y="321" class="muted" font-size="16">neural wiring + reinforcement learning</text>
+    </g>
+    <g class="reveal project-three">
+      <text x="28" y="358" class="green" font-size="18">photon · tidy</text>
+      <text x="28" y="381" class="muted" font-size="16">native macOS tools</text>
+    </g>
+    <g class="reveal ready">
+      <text x="28" y="422" class="green" font-size="20">❯</text>
+      <rect class="resting-cursor" x="56" y="406" width="10" height="21" rx="1" fill="#a6d9b1"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="459" height="459" rx="12" stroke="#31404b"/>
+</svg>
