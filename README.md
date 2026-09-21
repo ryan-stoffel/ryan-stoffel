@@ -1,30 +1,65 @@
-# Ryan Stoffel
+<div align="center">
 
-**Software · Systems · Applied AI**
+<h1>Ryan Stoffel</h1>
 
-[Portfolio](https://ryanstoffel.dev/) · [LinkedIn](https://www.linkedin.com/in/ryan-stoffel/)
+Software &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Applied AI
 
-I'm a computer science senior at California Baptist University, concentrating in AI and machine learning. I like building things end to end, from the environment a system runs in to the interface someone uses.
+<br>
 
-### Experience
+<a href="https://ryanstoffel.dev/"><img src="./assets/btn-portfolio.svg" height="36" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ryan-stoffel/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>
 
-At **NSWC Corona**, I spent my summer 2026 NREIP internship building local AI infrastructure with NixOS, Docker, PostgreSQL, and C#/.NET. Earlier, at **CBU's AI & Machine Learning Lab**, I worked on a Salesforce matching engine, bringing recommendation times from 45–60 seconds down to about 3 seconds.
+<br>
 
-### Selected work
+<img src="./assets/ember-line.svg" width="640" alt="">
 
-**01 / [ember](https://github.com/cbu-capstone-design-27/ember)**\
-An early-stage capstone exploring how a typed knowledge graph and MCP can give coding agents context about project decisions, conventions, and relationships.
+Computer science senior at California Baptist University, concentrating in AI and machine learning.
 
-**02 / [Formula Fly](https://github.com/cbu-machine-and-deep-learning-26/formula-fly)**\
-A simulation project exploring reinforcement learning for driving with networks based on a fly's neural wiring.
+I like building things end to end, from the environment a system runs in to the interface someone uses.
 
-**03 / Small tools for the everyday**\
-[Photon](https://github.com/ryan-stoffel/photon) is a native macOS launcher. [Tidy](https://github.com/ryan-stoffel/tidy) organizes files with configurable rules. My [dotfiles](https://github.com/ryan-stoffel/dotfiles) keep the environment reproducible with Nix.
+<br>
+
+###### EXPERIENCE
+
+**NSWC Corona** &nbsp;·&nbsp; NREIP Intern, Summer 2026
+
+Built local AI infrastructure with NixOS, Docker, PostgreSQL, and C#/.NET.
+
+**CBU AI & Machine Learning Lab**
+
+Worked on a Salesforce matching engine. Recommendation times went from about a minute to about 3 seconds.
+
+<br>
+
+###### SELECTED WORK
+
+**[ember](https://github.com/cbu-capstone-design-27/ember)**
+
+An early-stage capstone exploring how a typed knowledge graph and MCP can give coding agents context about project decisions and conventions.
+
+**[Formula Fly](https://github.com/cbu-machine-and-deep-learning-26/formula-fly)**
+
+Reinforcement learning for driving, using networks based on a fly's neural wiring.
+
+**[Photon](https://github.com/ryan-stoffel/photon) &nbsp;·&nbsp; [Tidy](https://github.com/ryan-stoffel/tidy) &nbsp;·&nbsp; [dotfiles](https://github.com/ryan-stoffel/dotfiles)**
+
+A native macOS launcher, a rule-based file organizer, and a reproducible Nix environment.
+
+<br>
 
 <details>
 <summary>More projects</summary>
+<br>
 
-- [Bogey Busters](https://github.com/ryan-stoffel/bogey-busters) — a golf tracking app built with Flutter and Firebase.
-- [SnapDose](https://github.com/cbu-jr-design-26/snap-dose) — team lead on a university project bringing glucose monitoring, AI-assisted carb estimation, and a pump simulator into one app.
+**[Bogey Busters](https://github.com/ryan-stoffel/bogey-busters)**
+
+A golf tracking app built with Flutter and Firebase.
+
+**[SnapDose](https://github.com/cbu-jr-design-26/snap-dose)**
+
+Team lead on a university project combining glucose monitoring, AI-assisted carb estimation, and a pump simulator in one app.
 
 </details>
+
+</div>
