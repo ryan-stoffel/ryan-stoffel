@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ryan Stoffel</h1>
+<h1>Hey 👋 I'm Ryan Stoffel</h1>
 
 Software &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Applied AI
 
