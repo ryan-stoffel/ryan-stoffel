@@ -16,17 +16,17 @@ Software &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Applied AI
 
 Computer science senior at California Baptist University, concentrating in AI and machine learning.
 
-I like building things end to end, from the environment a system runs in to the interface someone uses.
+I like building things end-to-end, from the environment a system runs in to the interface someone uses.
 
 <br>
 
 ###### EXPERIENCE
 
-**NSWC Corona** &nbsp;·&nbsp; NREIP Intern, Summer 2026
+**NSWC Corona** &nbsp;·&nbsp; Software Engineer Intern, NREIP Program Summer 2026
 
 Built local AI infrastructure with NixOS, Docker, PostgreSQL, and C#/.NET.
 
-**CBU AI & Machine Learning Lab**
+**CBU AI & Machine Learning Lab** &nbsp;·&nbsp; Software Engineer Research Assistant, May 2025 - May 2026
 
 Worked on a Salesforce matching engine. Recommendation times went from about a minute to about 3 seconds.
 
