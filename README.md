@@ -38,11 +38,11 @@ Worked on a Salesforce matching engine. Recommendation times went from about a m
 
 An early-stage capstone exploring how a typed knowledge graph and MCP can give coding agents context about project decisions and conventions.
 
-**[Formula Fly](https://github.com/cbu-machine-and-deep-learning-26/formula-fly)**
+**[formula-fly](https://github.com/cbu-machine-and-deep-learning-26/formula-fly)**
 
 Reinforcement learning for driving, using networks based on a fly's neural wiring.
 
-**[Photon](https://github.com/ryan-stoffel/photon) &nbsp;·&nbsp; [Tidy](https://github.com/ryan-stoffel/tidy) &nbsp;·&nbsp; [dotfiles](https://github.com/ryan-stoffel/dotfiles)**
+**[photon](https://github.com/ryan-stoffel/photon) &nbsp;·&nbsp; [tidy](https://github.com/ryan-stoffel/tidy) &nbsp;·&nbsp; [.dotfiles](https://github.com/ryan-stoffel/dotfiles)**
 
 A native macOS launcher, a rule-based file organizer, and a reproducible Nix environment.
 
@@ -52,11 +52,11 @@ A native macOS launcher, a rule-based file organizer, and a reproducible Nix env
 <summary>More projects</summary>
 <br>
 
-**[Bogey Busters](https://github.com/ryan-stoffel/bogey-busters)**
+**[bogey-busters](https://github.com/ryan-stoffel/bogey-busters)**
 
 A golf tracking app built with Flutter and Firebase.
 
-**[SnapDose](https://github.com/cbu-jr-design-26/snap-dose)**
+**[snap-dose](https://github.com/cbu-jr-design-26/snap-dose)**
 
 Team lead on a university project combining glucose monitoring, AI-assisted carb estimation, and a pump simulator in one app.
 
