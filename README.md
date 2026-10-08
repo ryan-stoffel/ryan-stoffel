@@ -18,8 +18,7 @@ Software engineer focused on backend systems, infrastructure, and applied AI. I 
 
 <br>
 
-<a id="experience"></a>
-<a href="#experience">
+<a href="https://ryanstoffel.dev/#experience">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/experience-dark.svg">
   <img src="./assets/headings/experience-light.svg" alt="Experience">
@@ -48,8 +47,7 @@ Cut recommendation latency from 60s to 3s on the DINA Matching Engine, a recomme
 
 <br>
 
-<a id="projects"></a>
-<a href="#projects">
+<a href="https://ryanstoffel.dev/#projects">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/projects-dark.svg">
   <img src="./assets/headings/projects-light.svg" alt="Projects">
@@ -100,8 +98,7 @@ Led a 5-person team building a Type 1 Diabetes management app. I architected the
 
 <br>
 
-<a id="tools"></a>
-<a href="#tools">
+<a href="https://ryanstoffel.dev/#tools">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/tools-dark.svg">
   <img src="./assets/headings/tools-light.svg" alt="Tools">
