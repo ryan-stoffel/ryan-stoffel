@@ -7,6 +7,7 @@
 
 Software engineer focused on backend systems, infrastructure, and applied AI. I like building things end to end, from the environment a system runs in to the interface someone uses.
 
+**Building** &nbsp; [Parallax](https://github.com/ryan-stoffel/parallax), my main project<br>
 **Studying** &nbsp; B.S. Computer Science, AI/ML · Cal Baptist · May 2027<br>
 **Recently** &nbsp; Software Engineer Intern, NSWC Corona<br>
 **Based in** &nbsp; Corona, California
@@ -15,6 +16,18 @@ Software engineer focused on backend systems, infrastructure, and applied AI. I 
 <a href="mailto:stoffel.thomas.ryan@gmail.com"><img src="./assets/buttons/email.svg" alt="Email me"></a>
 <a href="https://www.linkedin.com/in/ryan-stoffel"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn"></a>
 <a href="https://ryanstoffel.dev/resume"><img src="./assets/buttons/resume.svg" alt="Resume"></a>
+
+<br>
+
+## [Parallax](https://github.com/ryan-stoffel/parallax)
+
+**My main project. Run coding agents on computers you own, and check on them from anywhere.** · Sep 2026 – now
+
+<a href="https://github.com/ryan-stoffel/parallax"><img src="./assets/projects/parallax-demo.gif" width="100%" alt="Parallax: an orchestrator thread, approving a subagent's command, then a thread with its diff in the side panel"></a>
+
+An open-source desktop app for the coding agents you already pay for: Claude Code, Codex, Cursor, OpenCode, Ollama Cloud, and any agent that speaks ACP. Each task runs in its own git worktree, and an orchestrator thread can split a larger feature across subagents. The work runs in plxd, a Rust daemon on your machine or a remote host over SSH. On a remote host, a task keeps going with the laptop closed. A web app and an iOS app let you read threads, approve requests, and reply away from your desk.
+
+`Rust` `TypeScript` `Electron` `React Native` `Expo` `GitHub Actions` `Linear`
 
 <br>
 
@@ -75,16 +88,6 @@ A typed knowledge graph of why a codebase is the way it is: decisions, tickets, 
 A simulated driver whose eye is a model of the fruit fly optic lobe, wired from the real fly connectome. It trains on a MuJoCo practice track built from Silverstone's centerline. The question behind it: is fly wiring a useful prior for closed-loop control, or only a constraint?
 
 `Python` `PyTorch` `MuJoCo` `NumPy` `flyvis`
-
-### [Parallax](https://github.com/ryan-stoffel/parallax)
-
-**Coding agents on computers you own.** · Sep 2026 – now
-
-<a href="https://github.com/ryan-stoffel/parallax"><img src="./assets/projects/parallax.webp" width="100%" alt="A Parallax project: the coordinator's plan for a dry-run JSON flag on Tidy, with two subagent changes landed on the integration branch"></a>
-
-An open-source desktop app for coordinator-and-subagent AI projects. A coordinator chat plans the work and hands pieces to subagents, each in its own git worktree. The work runs in plxd, a Rust daemon on your machine or a remote host over SSH, so a project keeps running with the laptop closed.
-
-`Rust` `TypeScript` `Electron` `GitHub Actions` `Linear`
 
 ### [SnapDose](https://github.com/cbu-jr-design-26/snap-dose)
 
